@@ -13,10 +13,10 @@
 <h3 align="left">You can follow me on:</h3>
 <p align="left">
 
-<a href="https://www.linkedin.com/in/khaled-elmasry-4b4689255/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ali-samir-ali" height="30" width="40" /></a>
-<a href="https://www.facebook.com/khaledmohamed01/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ali.samir.ali.zaki" height="30" width="40" /></a>
-<a href="https://www.instagram.com/khaled009001/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ali_samir_21" height="30" width="40" /></a>
-<a href="https://www.behance.net/7306c91e" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="alisamirali" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/khaled-elmasry-4b4689255/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ali-samir-ali" height="30" width="40" /></a>
+<a href="https://www.facebook.com/khaledmohamed01/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ali.samir.ali.zaki" height="30" width="40" /></a>
+<a href="https://www.instagram.com/khaled009001/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ali_samir_21" height="30" width="40" /></a>
+<a href="https://www.behance.net/7306c91e" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="alisamirali" height="30" width="40" /></a>
 
 </p>
 
