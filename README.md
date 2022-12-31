@@ -1,16 +1,14 @@
 <h1 align="center">Hi, I’m Khaled Mohamed </h1>
 
 <h3 align="center">
-  Front-end developer
+  Front-end JavaScript ReactJS developer
 </h3> 
 
 - 👨‍💻 Most of my projects are available in my [Portfolio](https://khaledmasry0.github.io/Portfolio/)
 
-<!-- - 📝 I usually write useful  articles on [LinkedIn](https://www.linkedin.com//), [Facebook](https://www.facebook.com/), [Telegram](https://t.me/) -->
-
 - 📫 How to reach me **khaledmohamed3360@gmail.com**
 
-<h3 align="left">You can contact me on:</h3>
+<h3 align="left">You can contact with me on:</h3>
 <p align="left">
 
 <a href="https://www.linkedin.com/in/khaled-elmasry-4b4689255/" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ali-samir-ali" height="30" width="40" /></a>
@@ -46,3 +44,10 @@
 <a href="https://gulpjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gulpjs/gulpjs-icon.svg" alt="gulpjs" width="40" height="40"/> </a>
 <a href="https://pugjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pugjs/pugjs-icon.svg" alt="PUGJS" width="40" height="40"/> </a>
 </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=khaledmasry0&label=Profile%20views&color=0e75b6&style=flat" alt="khaled-mohamed" /> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khaledmasry0&show_icons=true&locale=en&show_icons=true" alt="khaled-mohamed" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=khaledmasry0&show_icons=true&locale=en" alt="khaled-mohamed" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khaledmasry0&" alt="khaled-mohamed" /></p>
