@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **khaledmohamed3360@gmail.com**
 
-<h3 align="left">You can contact with me on:</h3>
+<h3 align="left"> contact with me on:</h3>
 <p align="left">
 
 <a href="https://www.linkedin.com/in/khaled-elmasry-4b4689255/" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ali-samir-ali" height="30" width="40" /></a>
