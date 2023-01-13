@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I’m Khaled Mohamed</h1> 
 
 <h3 align="center">
-  Front-end JavaScript ReactJS developer 
+  Front-end JavaScript ReactJS developer
 </h3> 
 
 - 👨‍💻 Most of my projects are available in my [Portfolio](https://khaledmasry0.github.io/Portfolio/)
