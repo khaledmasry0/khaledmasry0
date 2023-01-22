@@ -1,7 +1,7 @@
 <p align="center" width="100%"><img src='https://media.giphy.com/media/Q9Z6ASHH713qOF2Gtv/giphy.gif' align="center" width="100%"/></p>
 <h1 align="center">Hi 👋, I’m Khaled Mohamed</h1> 
 
-<h3 align="center">
+<h3 align="center"> 
   Front-end JavaScript ReactJS developer
 </h3> 
 
