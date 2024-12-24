@@ -5,7 +5,7 @@
   Front-end JavaScript ReactJS developer
 </h3> 
 
-- 👨‍💻 Most of my projects are available in my [Portfolio](https://khaledmasry0.github.io/Portfolio/)
+- 👨‍💻  my [Portfolio](https://khaledmasry0.github.io/Portfolio/)
 
 - 📫 How to reach me **khaledmohamed3360@gmail.com**
 
